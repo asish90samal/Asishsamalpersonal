@@ -1,0 +1,26 @@
+1.There are 3 type of model in cloud computing services .
+  i.infrastructure as a services i.e. IaaS
+  ii.Platform as a services i.e. PaaS
+  iii.Software as services i.e. SaaS
+  
+2.
+ probability of getting all the ball 
+ blue ball =11
+ black ball 5
+ red ball =3
+ no. of possible way 11c3
+ at a time picking 3 ball 
+ probability of black ball 5c3
+ probability divisional = 11c3/5c3 =2/33
+ 3. 
+  3,20,78,334,1696 ???
+  8410
+ 
+ 4.
+  7113.018/(15.002*25.0210)=18.9496014988~~19
+  
+ 5 sum of four consecutive number 102
+  x+x+1+x+2+x+3=4x+6=102
+  x=24
+  product of extreeme =24*27 =648
+  
